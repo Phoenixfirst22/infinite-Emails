@@ -4,11 +4,13 @@ it will give you infinite emails . Can be used to create accounts. No email acce
 
 # Installation
 pip install beautifulsoup4
+
 pip install requests
 
 # usage
 
 ```python main.py```
+
 Enter the desired number of emails
 
 # note
